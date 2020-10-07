@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".help"
+    >
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="592dp"
+        android:text="
+ EMERGENCY:\n
+If you dont know which hospitals you have near you,we have emergency option for you.By clicking this button, Google map will open and will display current location and nearby hospitals locations.after which you can go to the hospitals as per your requirements.\n\n
+
+LIST BY DISEASE:\n
+After clicking htis button you can see list of some serious issues like cardiac arrest,burn,bone fracture etc.,by clicking issue you want to solve,map will open and will display hospitals related to it.\n\n
+
+PHARMACY NEAR ME:\n
+If you have small injury and can be cured with first aid then this option is for you.By clicking this option, user will come to know the nearby pharmacy shops.This will reduce the time for searchiong shop.\n\n
+
+LIST BY LOCATION:\n
+If you want to know which hopitals you have in your city,you will get all information on going to this option.\n\n
+
+Organ donation center\n
+This option lists the nearest organ donation and tissue replacement centers.\n\n
+
+Blood banks near me:\n
+This option lists the nearest blood banks near the current location of the user.\n\n
+
+Ambulance services near me\n
+This option lists the ambulance services near the user  .
+" />
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MEDICARE</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_pune">Map</string>
+    <string name="title_activity_mumbai">Map</string>
+    <string name="title_activity_pharmacy">Map</string>
+    <string name="title_activity_ambulance">Map</string>
+    <string name="title_activity_blood">Map</string>
+    <string name="title_activity_organ">Map</string>
+    <string name="title_activity_disease">Map</string>
+    <string name="title_activity_cas">Map</string>
+    <string name="title_activity_ortho">Map</string>
+    <string name="title_activity_child">Map</string>
+    <string name="title_activity_para">Map</string>
+    <string name="title_activity_ratna">Map</string>
+    <string name="title_activity_sudha">Map</string>
+</resources>
